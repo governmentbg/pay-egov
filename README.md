@@ -1,6 +1,6 @@
-# 77-16.10.2020
+# N77-16.10.2020
 
-Интеграция на ИС е-плащане с Централен ВПОС терминал
+Повишаване на ефективността и ефикасността на ЦКЗ 2019-2021 г. 
 
 ## Getting started
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://git.egov.bg/daeu/pay-egov/77-16.10.2020.git
+git remote add origin https://git.egov.bg/daeu/pay-egov/N77-16.10.2020.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://git.egov.bg/daeu/pay-egov/77-16.10.2020/-/settings/integrations)
+- [ ] [Set up project integrations](https://git.egov.bg/daeu/pay-egov/N77-16.10.2020/-/settings/integrations)
 
 ## Collaborate with your team
 
